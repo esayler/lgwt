@@ -1,3 +1,3 @@
-module eric.sayler.com/lgwt
+module hello
 
 go 1.19
